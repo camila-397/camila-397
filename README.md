@@ -14,6 +14,6 @@ Soy una estudiante de Ingeniería de Sistemas en últimos semestres de la carrer
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camila.397&show_icons=true)
 
 ¡Gracias por visitar mi perfil! 😄
